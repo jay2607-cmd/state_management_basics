@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+// basic demo to understand the concept of Provider
+
 void main() {
   runApp(const MyApp());
 }
